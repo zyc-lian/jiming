@@ -7,5 +7,6 @@ public class Test1 {
 		String a="aaa";
 		System.out.println(s);
 		System.out.println(d);
+		System.out.println("456");
 	}
 }
