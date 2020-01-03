@@ -8,5 +8,7 @@ public class Test1 {
 		System.out.println(s);
 		System.out.println(d);
 		System.out.println("456");
+		System.out.println(a);
+		System.out.println("789");
 	}
 }
