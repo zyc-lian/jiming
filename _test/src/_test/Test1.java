@@ -13,6 +13,8 @@ public class Test1 {
 		String o="ooo";
 		String f="sdfe";
 
+		String t="tttt";
+
 		System.out.println(a);
 		System.out.println("789");
 		
