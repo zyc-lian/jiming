@@ -5,7 +5,9 @@ public class Test1 {
 		String s="abc";
 		String d="df";
 		String a="aaa";
+		String f="sdfe";
 		System.out.println(a);
 		System.out.println("789");
+		
 	}
 }
