@@ -10,7 +10,7 @@ public class Test1 {
 		System.out.println(s);
 		System.out.println(d);
 		System.out.println("456");
-
+		String o="ooo";
 		String f="sdfe";
 
 		System.out.println(a);
